@@ -1,0 +1,2 @@
+# Early-Earthquake-Warning-Systems-Innovative-Technologies-and-Precautions-for-Disaster-Preparedness
+This presentation focuses on the importance of early earthquake warning and preparedness. It covers current earthquake early warning systems, an innovative gadget inspired by animal behavior, earthquake-proof safe rooms, and implementation plans. It also provides ideas for precautions that can be taken before or after an earthquake.
